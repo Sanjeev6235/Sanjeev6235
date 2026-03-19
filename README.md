@@ -89,15 +89,14 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true)
 
 </div>
 
-> 📝 **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for the stats to render.
 
 ---
 
@@ -107,7 +106,7 @@ const developer = {
 
 ---
 
-### 📌 Project 1 — `[Project Name]`
+### 📌 Project 1 — `[VoteSecure]`
 > **[Short one-line description of what it does]**
 
 - 🔧 **Tech:** React · Node.js · Express · MongoDB · [Other Tech]
