@@ -106,12 +106,12 @@ const developer = {
 
 ---
 
-### 📌 Project 1 — `[VoteSecure]`
-> **[Short one-line description of what it does]**
+### 📌 Project 1 — VoteSecure
+> **A secure web-based platform that allows users to cast votes online with authentication and real-time result tracking.**
 
-- 🔧 **Tech:** React · Node.js · Express · MongoDB · [Other Tech]
-- ✨ **Features:** [Feature 1] · [Feature 2] · [Feature 3]
-- 🔗 **Live Demo:** [Link](#) &nbsp;|&nbsp; **Source Code:** [GitHub Repo](#)
+- 🔧 **Tech:** React · Node.js · Express · MongoDB · JWT (JSON Web Token) · Tailwind CSS
+- ✨ **Features:** Secure User Authentication · Online Voting System · Real-Time Result Dashboard · Admin Control Panel · Vote Verification System · Candidate Management
+- 🔗 **Live Demo:** [Link](https://voting-system-n4y1.vercel.app/) &nbsp;|&nbsp; **Source Code:** [GitHub Repo](https://github.com/Sanjeev6235/voting-system)
 
 ---
 
@@ -139,12 +139,10 @@ const developer = {
 
 I'm always open to connecting with fellow developers, collaborators, and curious minds.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev231120@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-kumar-730453259/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
-> 📌 *Replace the links above with your actual profiles.*
 
 </div>
 
@@ -153,7 +151,7 @@ I'm always open to connecting with fellow developers, collaborators, and curious
 <div align="center">
 
 ### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjeev6235&color=00d9ff&style=for-the-badge)
 
 ---
 
