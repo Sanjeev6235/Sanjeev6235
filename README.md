@@ -111,7 +111,16 @@ const sanjeev = {
 <div align="center">
 
 ### 📈 GitHub Stats
-![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&border_color=00D9FF&bg_color=0D1117)
+![Sanjeev's GitHub Stats]
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev6235&theme=tokyonight&border=00D9FF&background=0D1117)
