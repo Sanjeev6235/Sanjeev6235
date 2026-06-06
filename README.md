@@ -14,11 +14,11 @@
 
 <div align="center">
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanjeevkumar.sanjeevkumar&color=00D9FF&style=flat-square)](https://github.com/sanjeevkumar)
-[![GitHub followers](https://img.shields.io/github/followers/sanjeevkumar?style=flat-square&color=00D9FF)](https://github.com/sanjeevkumar)
-[![GitHub Stars](https://img.shields.io/github/stars/sanjeevkumar?style=flat-square&color=6A0572)](https://github.com/sanjeevkumar)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sanjeev6235.Sanjeev6235&color=00D9FF&style=flat-square)](https://github.com/Sanjeev6235)
+[![GitHub followers](https://img.shields.io/github/followers/Sanjeev6235?style=flat-square&color=00D9FF)](https://github.com/Sanjeev6235)
+[![GitHub Stars](https://img.shields.io/github/stars/Sanjeev6235?style=flat-square&color=6A0572)](https://github.com/Sanjeev6235)
 [![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Yes-00D9FF?style=flat-square)](mailto:sanjeev@example.com)
-[![Location](https://img.shields.io/badge/📍%20India-Mohali-6A0572?style=flat-square)](https://github.com/sanjeevkumar)
+[![Location](https://img.shields.io/badge/📍%20India-Mohali-6A0572?style=flat-square)](https://github.com/Sanjeev6235)
 
 </div>
 
@@ -363,7 +363,7 @@ Feel free to reach out if you have an interesting project or just want to chat a
 
 ### 📊 Profile Views Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanjeevkumar&color=00D9FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjeev6235&color=00D9FF&style=flat-square)
 
 ---
 
@@ -379,7 +379,7 @@ Feel free to reach out if you have an interesting project or just want to chat a
 
 **⭐ If you found this README helpful, please give it a star! It motivates me to create more awesome content.**
 
-[![Star this repo](https://img.shields.io/badge/⭐%20Star%20This%20Repo-%23FFD700?style=for-the-badge)](https://github.com/sanjeevkumar)
+[![Star this repo](https://img.shields.io/badge/⭐%20Star%20This%20Repo-%23FFD700?style=for-the-badge)](https://github.com/Sanjeev6235)
 
 </div>
 
