@@ -111,16 +111,16 @@ const sanjeev = {
 <div align="center">
 
 ### 📈 GitHub Stats
-![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevkumar&show_icons=true&theme=tokyonight&border_color=00D9FF&bg_color=0D1117)
+![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&border_color=00D9FF&bg_color=0D1117)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar&theme=tokyonight&border=00D9FF&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev6235&theme=tokyonight&border=00D9FF&background=0D1117)
 
 ### 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar&layout=compact&theme=tokyonight&border_color=00D9FF&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&theme=tokyonight&border_color=00D9FF&bg_color=0D1117)
 
 ### 📊 Activity Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjeevkumar&theme=tokyo-dark&bg_color=0D1117&color=00D9FF&line=6A0572&point=00D9FF&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjeev6235&theme=tokyo-dark&bg_color=0D1117&color=00D9FF&line=6A0572&point=00D9FF&hide_border=true)
 
 </div>
 
