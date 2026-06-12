@@ -212,8 +212,8 @@ const sanjeev = {
 - ✅ QR code table ordering
 - ✅ Kitchen display system (KDS)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF?style=for-the-badge&logo=vercel)](https://restaurant-mgmt.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source%20Code-%23000000?style=for-the-badge&logo=github)](https://github.com/sanjeevkumar/restaurant-management)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF?style=for-the-badge&logo=vercel)](https://dadwals-restaurant-feus.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-%23000000?style=for-the-badge&logo=github)](https://dadwals-restaurant-feus.vercel.app/)
 
 ---
 
