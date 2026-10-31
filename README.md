@@ -1,114 +1,124 @@
-# Hi, I'm Sanjeev Kumar 👋
+<div align="center">
 
-### Full Stack Developer | MERN Stack | Building Practical Web Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sanjeev%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=60&descSize=18" width="100%" alt="Sanjeev Kumar profile banner" />
 
-I’m a Full Stack Developer with **3+ years of experience** building responsive, user-focused web applications. I enjoy turning ideas into working products, solving real-world problems, and helping others learn development.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Experiences;Always+Learning%2C+Always+Building" alt="Typing introduction" />
+</a>
 
-- 💻 Focused on **MERN Stack** and modern JavaScript development
-- 🚀 Experienced in building full-stack applications and REST APIs
-- 👨‍🏫 Taught **1,000+ students**
-- 🛠️ Delivered **300+ projects**
-- 🌱 Currently exploring scalable application architecture and modern web technologies
-- 🤝 Open to collaboration, freelance projects, and development opportunities
+<p>
+  <a href="https://github.com/Sanjeev6235"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sanjeev-kumar-730453259"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:sanjeev231120@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Sanjeev6235&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+Hello! I'm **Sanjeev Kumar**, a Full Stack Developer who enjoys creating clean, responsive, and useful web applications.
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+I work across frontend and backend technologies, turning ideas into interactive digital products. I’m interested in writing maintainable code, exploring modern tools, and continuously improving my development skills.
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- 🔭 Working on full-stack web applications
+- 🌱 Exploring Next.js, TypeScript, and scalable backend development
+- 💡 Interested in UI/UX, APIs, databases, and real-world problem solving
+- 🤝 Open to interesting projects and collaboration
+- ⚡ I enjoy learning by building
+
+---
+
+## ⚙️ Technologies & Tools
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,threejs,gsap" alt="Frontend skills" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend and database skills" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,aws" alt="Developer tools" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. VoteSecure — Online Voting System
-A MERN stack voting application with JWT authentication and role-based access for admins and voters.
-
-**Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS  
-[View Repository](https://github.com/Sanjeev6235/voting-system)
-
-### 2. Dadwals Restaurant — Restaurant Ordering Platform
-A full-stack restaurant application with food ordering, cart, order tracking, and an admin dashboard.
-
-**Tech:** React, Node.js, Express, MongoDB, JWT, Cloudinary  
-[View Repository](https://github.com/Sanjeev6235/Dadwals-Restaurant)
-
-### 3. ChatApp — Real-Time Chat Application
-A real-time chat application with messaging, online status, typing indicators, and friend features.
-
-**Tech:** React, Node.js, Express, MongoDB, Socket.io  
-[View Repository](https://github.com/Sanjeev6235/chatApp)
-
-### 4. MindfulMe — Mental Health Tracking App
-A full-stack application for mood tracking, assessments, analytics, and AI chatbot support.
-
-**Tech:** MERN Stack, JWT, AI integration  
-[View Repository](https://github.com/Sanjeev6235/mental_health)
-
-### 5. MERN Bookstore
-A bookstore CRUD application to add, view, update, and delete book records.
-
-**Tech:** React, Node.js, Express, MongoDB  
-[View Repository](https://github.com/Sanjeev6235/MERN_CRUD_BookStore)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🗳️ VoteSecure</h3>
+      <p>A MERN stack online voting system with JWT authentication and role-based access for admins and voters.</p>
+      <p><b>Stack:</b> React · Node.js · Express · MongoDB · JWT</p>
+      <a href="https://github.com/Sanjeev6235/voting-system">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🍽️ Dadwals Restaurant</h3>
+      <p>A restaurant web application focused on online food ordering and restaurant management.</p>
+      <p><b>Stack:</b> React · Node.js · Express · MongoDB</p>
+      <a href="https://github.com/Sanjeev6235/Dadwals-Restaurant">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 ChatApp</h3>
+      <p>A real-time chat application built around instant messaging and live user interactions.</p>
+      <p><b>Stack:</b> React · Node.js · Express · MongoDB · Socket.io</p>
+      <a href="https://github.com/Sanjeev6235/chatApp">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🧠 Mental Health App</h3>
+      <p>A mental health-focused application with tracking and supportive digital features.</p>
+      <p><b>Stack:</b> MERN Stack</p>
+      <a href="https://github.com/Sanjeev6235/mental_health">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Overview
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanjeev's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+---
+
+## 🧩 What I Like Building
+
+- Responsive websites and interactive user interfaces
+- REST APIs and backend services
+- Authentication and role-based access systems
+- Database-driven applications
+- Real-time features and practical tools
 
 ---
 
-## 👨‍🏫 Teaching & Collaboration
-
-I enjoy sharing my knowledge through practical, beginner-friendly sessions and helping students understand how real-world applications are built.
-
-I’m happy to connect about:
-- Full Stack / MERN development
-- College workshops and student training
-- Web application development
-- Freelance and collaboration opportunities
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sanjeev6235-181717?style=for-the-badge&logo=github)](https://github.com/Sanjeev6235)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjeev-kumar-730453259)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev231120@gmail.com)
-
----
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjeev6235&style=flat-square&color=blue" alt="Profile views" />
 
-  **Thanks for visiting my profile! Let's build something useful. 🚀**
+I'm always interested in connecting with developers, sharing ideas, and collaborating on meaningful projects.
+
+<a href="https://github.com/Sanjeev6235"><img src="https://img.shields.io/badge/GitHub-Sanjeev6235-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/sanjeev-kumar-730453259"><img src="https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+<a href="mailto:sanjeev231120@gmail.com"><img src="https://img.shields.io/badge/Gmail-sanjeev231120%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sanjeev" /></a>
+
+<br/><br/>
+
+**Thanks for stopping by! Keep learning, keep building. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" alt="Footer banner" />
+
 </div>
