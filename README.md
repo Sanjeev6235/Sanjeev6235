@@ -163,19 +163,13 @@ MERN · Backend architecture · AI-powered applications
 
 <div align="center">
 
-<a href="https://github.com/Sanjeev6235?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
-<a href="https://github.com/Sanjeev6235?tab=stars"><img src="https://img.shields.io/badge/View-Starred%20Projects-F59E0B?style=for-the-badge&logo=github" alt="Starred projects" /></a>
+[![Sanjeev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Sanjeev6235)
 
-<a href="https://github.com/Sanjeev6235">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" width="49%" alt="Sanjeev's GitHub statistics" />
-</a>
-<a href="https://github.com/Sanjeev6235?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" width="41%" alt="Most used programming languages on GitHub" />
-</a>
+[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sanjeev6235&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/Sanjeev6235?tab=repositories)
 
-<img src="https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" width="70%" alt="GitHub streak" />
+[![GitHub streak](https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true)](https://github.com/Sanjeev6235)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeev6235&bg_color=0D1117&color=7DD3FC&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjeev6235&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true)](https://github.com/Sanjeev6235)
 
 </div>
 
