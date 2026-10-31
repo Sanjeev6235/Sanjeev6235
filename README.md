@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,30:082F70,65:075985,100:581C87&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontColor=E0F2FE&fontSize=27&fontAlignY=28&desc=Sanjeev%20Kumar&descSize=58&descAlignY=64&descColor=FFFFFF" width="100%" alt="Neon blue and purple GitHub profile banner" />
 
-<img src="https://raw.githubusercontent.com/Sanjeev6235/Sanjeev6235/main/assets/sanjeev-anime-avatar.svg" width="210" alt="Anime-style developer avatar inspired by Sanjeev Kumar" />
 
 # Sanjeev Kumar
 
