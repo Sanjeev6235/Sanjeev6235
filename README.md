@@ -1,53 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:123B63,100:06B6D4&text=Sanjeev%20Kumar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20MERN%20STACK&descAlignY=60&descSize=17" width="100%" alt="Sanjeev Kumar profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:102B5C,70:075985,100:4C1D95&text=Sanjeev%20Kumar&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20SPECIALIST%20%7C%20AI%20ENTHUSIAST&descAlignY=62&descSize=15" width="100%" alt="Sanjeev Kumar neon developer banner" />
 
-### Building useful products. Writing clean code. Learning every day.
+<img src="https://raw.githubusercontent.com/Sanjeev6235/Sanjeev6235/main/assets/sanjeev-anime-avatar.svg" width="190" alt="Anime-inspired illustrated avatar of Sanjeev Kumar" />
+
+### Dream Big. Code Bigger. Build What Matters. 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+modern+and+scalable+web+apps;Exploring+AI+and+GenAI+with+Groq" alt="Animated developer introduction" />
 
 <p>
 <a href="https://github.com/Sanjeev6235"><img src="https://img.shields.io/badge/GitHub-Sanjeev6235-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/sanjeev-kumar-730453259"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:sanjeev231120@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:sanjeev231120@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+real+web+applications" alt="Developer roles" />
-
-<img src="https://komarev.com/ghpvc/?username=Sanjeev6235&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sanjeev6235&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 About me
+## 👨‍💻 About me
 
-I'm **Sanjeev Kumar**, a Full Stack Developer focused on building modern, responsive, and user-friendly web applications.
+Hey! I'm **Sanjeev Kumar**, a Full Stack Developer from **Punjab, India**, passionate about creating modern, responsive, and user-friendly digital experiences.
 
-I enjoy taking an idea from interface design to a working product — building frontend experiences, developing backend APIs, integrating databases, and connecting everything together.
+I enjoy the complete development process — from crafting polished interfaces to building secure backend services, designing databases, integrating APIs, and bringing ideas to life.
 
-- 💻 Focused on **MERN stack development**
-- 🎨 Interested in clean UI, responsive layouts, animations, and user experience
-- 🔐 Working with REST APIs, authentication, and database-driven applications
-- 🤖 Exploring AI-powered features and **Groq API** integration
-- 🌱 Continuously learning **Next.js, TypeScript, and better software architecture**
-- 🤝 Open to collaboration, real-world projects, and developer opportunities
+- ⚡ Specializing in **MERN stack** application development
+- 🎨 Love building clean UI, responsive layouts, and smooth animations
+- 🔐 Interested in secure authentication, REST APIs, and database design
+- 🤖 Exploring **Generative AI** and AI-powered features using **Groq API**
+- 🌱 Currently growing my skills in **Next.js, TypeScript, and scalable app architecture**
+- 🤝 Open to collaboration, exciting projects, and developer opportunities
+
+> **My mindset:** Keep learning, keep building, and make every project better than the last.
 
 ---
 
-## 🧰 Tech stack
+## 🧑‍🚀 My developer journey
+
+| Timeline | Role | Focus |
+|:--|:--|:--|
+| **2024 – Present** | Full Stack Developer | MERN applications, authentication, REST APIs, database integration, modern UI |
+| **2023 – 2024** | Frontend Developer | React.js, GSAP animations, Tailwind CSS, responsive interfaces |
+| **2022 – 2023** | Web Designer | HTML, CSS, JavaScript websites and e-commerce layouts |
+
+---
+
+## ⚙️ Tech stack & tools
 
 <div align="center">
 
-**Frontend**
+**Frontend development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,threejs&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,threejs&theme=dark" alt="HTML CSS JavaScript TypeScript React Next Tailwind Bootstrap Redux Three.js" />
 
-**Backend & database**
+**Backend development & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Node.js Express and Postman" />
 
-**Tools & deployment**
+**Databases, authentication & cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,aws&theme=dark" alt="Tools and platforms" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,cloudflare&theme=dark" alt="MongoDB MySQL Firebase and Cloudflare" />
+
+**Libraries, services & concepts**
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq AI" />
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Multer-7C3AED?style=for-the-badge" alt="Multer" />
+<img src="https://img.shields.io/badge/bcrypt-334155?style=for-the-badge" alt="bcrypt" />
+
+**Developer tools & deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws&theme=dark" alt="Git GitHub VS Code Vercel Netlify AWS" />
 
 </div>
 
@@ -55,37 +83,73 @@ I enjoy taking an idea from interface design to a working product — building f
 
 ## 🚀 Featured projects
 
-| Project | What it is | Repository |
-|:--|:--|:--|
-| 🗳️ **Voting System** | Online voting application | [View project](https://github.com/Sanjeev6235/voting-system) |
-| 🍽️ **Dadwals Restaurant** | Restaurant web application | [View project](https://github.com/Sanjeev6235/Dadwals-Restaurant) |
-| 💬 **ChatApp** | Chat application project | [View project](https://github.com/Sanjeev6235/chatApp) |
-| 🧠 **Mental Health** | Mental-health focused web project | [View project](https://github.com/Sanjeev6235/mental_health) |
-| 📚 **MERN Bookstore** | Bookstore CRUD application | [View project](https://github.com/Sanjeev6235/MERN_CRUD_BookStore) |
-| 👨‍💼 **Employee Management** | Employee management application | [View project](https://github.com/Sanjeev6235/Employee-Management-System) |
-
----
-
-## 📈 GitHub insights
-
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sanjeev6235&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev6235&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Most used programming languages" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
+<a href="https://github.com/Sanjeev6235/QuickCart"><img src="https://img.shields.io/badge/QuickCart-E--Commerce-0891B2?style=for-the-badge&logo= shoppingcart&logoColor=white" alt="QuickCart" /></a>
+<a href="https://github.com/Sanjeev6235/MERN_CRUD_BookStore"><img src="https://img.shields.io/badge/Bookstore-MERN%20CRUD-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Bookstore" /></a>
+<a href="https://github.com/Sanjeev6235/chatApp"><img src="https://img.shields.io/badge/ChatApp-Real--time-0F766E?style=for-the-badge&logo=socketdotio&logoColor=white" alt="ChatApp" /></a>
 
 </div>
 
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🛒 [**QuickCart**](https://github.com/Sanjeev6235/QuickCart) | E-commerce application with modern shopping experience | React · Node · Express · MongoDB |
+| 📚 [**MERN Bookstore**](https://github.com/Sanjeev6235/MERN_CRUD_BookStore) | Bookstore application with CRUD functionality | MERN |
+| 💬 [**ChatApp**](https://github.com/Sanjeev6235/chatApp) | Real-time chat application | React · Node · Socket.io |
+| 🍽️ [**Dadwals Restaurant**](https://github.com/Sanjeev6235/Dadwals-Restaurant) | Restaurant and food-ordering web application | MERN |
+| 🗳️ [**Voting System**](https://github.com/Sanjeev6235/voting-system) | Online voting application with user roles | MERN · JWT |
+| 🧠 [**Mental Health App**](https://github.com/Sanjeev6235/mental_health) | Mental wellness-focused web application | MERN |
+| 👨‍💼 **Employee Management** | Employee management application | React |
+
 ---
 
-## 🏆 Achievements & activity
+## 🏆 Milestones & achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjeev6235&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies" />
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>45 Days</h2>
+<strong>Web Designing Training</strong>
+<br/>Intensive hands-on learning
+</td>
+<td align="center" width="25%">
+<h2>MERN</h2>
+<strong>Full Stack Projects</strong>
+<br/>Frontend to backend
+</td>
+<td align="center" width="25%">
+<h2>API</h2>
+<strong>Backend Integration</strong>
+<br/>REST APIs & authentication
+</td>
+<td align="center" width="25%">
+<h2>AI</h2>
+<strong>Continuous Learning</strong>
+<br/>Exploring Groq-powered apps
+</td>
+</tr>
+</table>
+
+</div>
+
+- ✅ Completed intensive web designing training
+- ✅ Built projects using React, Node.js, Express, and MongoDB
+- ✅ Practiced JWT authentication and role-based application flows
+- ✅ Worked with database CRUD, API integration, and real-time features
+- 🚀 Always learning new tools and improving through practical projects
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/Sanjeev6235?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-2563EB?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+<a href="https://github.com/Sanjeev6235?tab=stars"><img src="https://img.shields.io/badge/My%20Stars-Explore-F59E0B?style=for-the-badge&logo=github" alt="Explore stars" /></a>
+
+<img src="https://streak-stats.demolab.com?user=Sanjeev6235&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" width="75%" alt="GitHub contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeev6235&bg_color=0D1117&color=7DD3FC&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
@@ -93,20 +157,32 @@ I enjoy taking an idea from interface design to a working product — building f
 
 ---
 
-## 🤝 Let's connect
+## 🎯 What I'm focused on right now
 
-I'm always happy to connect with developers, exchange ideas, and work on interesting projects.
+- Building real-world full-stack applications
+- Improving backend architecture and API security
+- Exploring AI integrations with Groq
+- Practicing TypeScript and Next.js
+- Writing cleaner, reusable, maintainable code
+
+---
+
+## 🤝 Let's connect and build something awesome
+
+Have an idea, want to collaborate, or just want to talk tech? My inbox is open!
 
 <div align="center">
 
-<a href="https://github.com/Sanjeev6235"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/sanjeev-kumar-730453259"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:sanjeev231120@gmail.com"><img src="https://img.shields.io/badge/Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Sanjeev6235"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
+<a href="https://www.linkedin.com/in/sanjeev-kumar-730453259"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
+<a href="mailto:sanjeev231120@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 
 <br/><br/>
 
-**Thanks for stopping by — keep building, keep growing!** 💙
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:080B16,45:123B63,100:06B6D4&section=footer" width="100%" alt="Footer banner" />
+**Keep Coding • Keep Learning • Keep Growing** 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050816,35:102B5C,70:075985,100:4C1D95&section=footer" width="100%" alt="Neon blue and purple footer banner" />
 
 </div>
