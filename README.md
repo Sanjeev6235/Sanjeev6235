@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,35:172554,70:164E63,100:0F766E&height=220&section=header&text=Sanjeev%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descAlignY=58&descSize=17" width="100%" alt="Sanjeev Kumar banner" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+web+experiences.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Database;Building.+Learning.+Improving.+ 반복" alt="Developer introduction" />
-</a>
+<img src="https://github.com/Sanjeev6235.png" width="150" height="150" alt="Sanjeev Kumar GitHub profile picture" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+web+experiences.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Database;Building.+Learning.+Improving." alt="Developer introduction" />
 
 <br/>
 
@@ -55,7 +57,24 @@ I enjoy working across the complete development journey: shaping an interface, b
 
 ---
 
-## 🚀 Things I've been building
+## 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/Sanjeev6235/voting-system">
+  <img src="https://opengraph.githubassets.com/1/Sanjeev6235/voting-system" width="48%" alt="VoteSecure repository preview" />
+</a>
+<a href="https://github.com/Sanjeev6235/Dadwals-Restaurant">
+  <img src="https://opengraph.githubassets.com/1/Sanjeev6235/Dadwals-Restaurant" width="48%" alt="Dadwals Restaurant repository preview" />
+</a>
+<a href="https://github.com/Sanjeev6235/chatApp">
+  <img src="https://opengraph.githubassets.com/1/Sanjeev6235/chatApp" width="48%" alt="ChatApp repository preview" />
+</a>
+<a href="https://github.com/Sanjeev6235/mental_health">
+  <img src="https://opengraph.githubassets.com/1/Sanjeev6235/mental_health" width="48%" alt="Mental Health App repository preview" />
+</a>
+
+</div>
 
 <table>
   <tr>
@@ -63,10 +82,7 @@ I enjoy working across the complete development journey: shaping an interface, b
       <h3>🗳️ VoteSecure</h3>
       A MERN-based online voting system with JWT authentication and role-based access for admins and voters.
       <br/><br/>
-      <strong>Built with</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+      <strong>Stack:</strong> React · Node.js · Express · MongoDB · JWT
       <br/><br/>
       <a href="https://github.com/Sanjeev6235/voting-system">↗ Explore repository</a>
     </td>
@@ -74,10 +90,7 @@ I enjoy working across the complete development journey: shaping an interface, b
       <h3>🍽️ Dadwals Restaurant</h3>
       A restaurant web application focused on online food ordering and restaurant management.
       <br/><br/>
-      <strong>Built with</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+      <strong>Stack:</strong> React · Node.js · Express · MongoDB
       <br/><br/>
       <a href="https://github.com/Sanjeev6235/Dadwals-Restaurant">↗ Explore repository</a>
     </td>
@@ -87,10 +100,7 @@ I enjoy working across the complete development journey: shaping an interface, b
       <h3>💬 ChatApp</h3>
       A real-time chat application built around instant messaging and live user interactions.
       <br/><br/>
-      <strong>Built with</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+      <strong>Stack:</strong> React · Node.js · Express · MongoDB · Socket.io
       <br/><br/>
       <a href="https://github.com/Sanjeev6235/chatApp">↗ Explore repository</a>
     </td>
@@ -98,9 +108,7 @@ I enjoy working across the complete development journey: shaping an interface, b
       <h3>🧠 Mental Health App</h3>
       A mental health-focused application with tracking and supportive digital features.
       <br/><br/>
-      <strong>Built with</strong><br/>
-      <img src="https://img.shields.io/badge/MERN-Stack-0F766E" />
-      <img src="https://img.shields.io/badge/AI-Integration-7C3AED" />
+      <strong>Stack:</strong> MERN Stack
       <br/><br/>
       <a href="https://github.com/Sanjeev6235/mental_health">↗ Explore repository</a>
     </td>
